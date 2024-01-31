@@ -2,10 +2,6 @@
 <h3 align="center">.....A passionate Full Stack developer from India....</h3>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moniruddin-laskar&label=Profile%20views&color=0e75b6&style=flat" alt="moniruddin" /> </p>
-
-<p align="left"> <a href="https://twitter.com/moniruddin_18" target="blank"><img src="https://img.shields.io/twitter/follow/moniruddin_18?logo=twitter&style=for-the-badge" alt="moniruddin" /></a> </p>
-
 - ✍ You can find my projects here at *My Portfolio*
 
 - 🔭 I’m currently working on *Various Android Application Projects*
