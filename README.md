@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moniruddin Laskar</h1>
+<h1 align="center">Hi 👋, I'm Abhijit Adak</h1>
 <h3 align="center">.....A passionate Full Stack developer from India....</h3>
 <br/>
 
