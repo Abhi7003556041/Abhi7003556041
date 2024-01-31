@@ -14,8 +14,6 @@
 
 - 💬 Ask me about *Dart, Fluter, Android , Kotlin, Php , JavaScript*
 
-- 📫 How to reach me *me@monirudd.in*
-
 - ⚡ Fun fact *I am Funny*
 
 <h3 align="left">Connect with me:</h3>
