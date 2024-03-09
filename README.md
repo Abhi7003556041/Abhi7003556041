@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijit Adak</h1>
-<h3 align="center">.....A passionate Full Stack developer from India....</h3>
+<h3 align="center">.....A passionate Full Stack appication developer from India....</h3>
 <br/>
 
 - ✍ You can find my projects here at *My Portfolio*
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *Android Application Development with Kotlin*
 
-- 💬 Ask me about *Dart, Fluter, Android , Kotlin, Php , JavaScript*
+- 💬 Ask me about *React Native, Javascript,Dart, Fluter, Android , Php , Java*
 
 - ⚡ Fun fact *I am Funny*
 
